@@ -12,7 +12,4 @@ color:
     - '#FCFAE1'
     - '#BD8D46'
 name: Artwork by Toy
-navigation:
-  - name: artwork
-    url: 'http://tgomes.com'
-    type: external
+navigation: []
